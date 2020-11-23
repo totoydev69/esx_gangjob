@@ -1,7 +1,7 @@
 # esx_gangjob
 Change the Uniform, Weapon Price, Cars Price and many more on config.lua 
 
-<h4 align="center">
+<h4 align="left">
 	v 1.3  <br />
 	Changelogs :  <br />
 	- Fixed Vehicle Shop  <br />
